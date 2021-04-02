@@ -1,6 +1,6 @@
 # Key to All Mythology
 Collection of links related to the best thinking I can find on programming topics
->> For he had been as instructive as Milton’s “affable archangel;” and with something of the archangelic manner he told her how he had undertaken to show (what indeed had been attempted before, but not with that thoroughness, justice of comparison, and effectiveness of arrangement at which Mr. Casaubon aimed) that all the mythical systems or erratic mythical fragments in the world were corruptions of a tradition originally revealed. Having once mastered the true position and taken a firm footing there, the vast field of mythical constructions became intelligible, nay, luminous with the reflected light of correspondences.
+> For he had been as instructive as Milton’s “affable archangel;” and with something of the archangelic manner he told her how he had undertaken to show (what indeed had been attempted before, but not with that thoroughness, justice of comparison, and effectiveness of arrangement at which Mr. Casaubon aimed) that all the mythical systems or erratic mythical fragments in the world were corruptions of a tradition originally revealed. Having once mastered the true position and taken a firm footing there, the vast field of mythical constructions became intelligible, nay, luminous with the reflected light of correspondences.
 
 
 ## Event-based/Reactive
