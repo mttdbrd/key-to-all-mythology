@@ -10,6 +10,7 @@ Collection of links related to the best thinking I can find on programming topic
 
 ## Databases
 * [Some Opinionated SQL Takes](https://blog.nelhage.com/post/some-opinionated-sql-takes/)
+* [Unofficial guide to Datomic internals](https://tonsky.me/blog/unofficial-guide-to-datomic-internals/)
 
 ## Fundamentals
 * [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
